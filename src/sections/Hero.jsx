@@ -51,9 +51,9 @@ const HeroSection = () => (
     <Content speed={0.4} offset={0}>
       <Hero>
         <BigTitle>
-          Hello, <br /> I'm Oriol Torrillas.
+          Hello, <br /> I'm Oriol Torrillas
         </BigTitle>
-        <Subtitle>I'm creating user experiences for the web and mobile.</Subtitle>
+        <Subtitle>I create interactive technology experiences</Subtitle>
       </Hero>
     </Content>
     <DividerMiddle bg="linear-gradient(to right, SlateBlue 0%, DeepSkyBlue 100%)" speed={-0.2} offset={1.1} factor={2} />

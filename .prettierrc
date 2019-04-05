@@ -1,3 +1,4 @@
 # .prettierrc
 singleQuote: true
 printWidth: 125
+trailingComma: es5
